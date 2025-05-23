@@ -95,3 +95,11 @@
     background-color: #e7e7e7;
 
 }
+
+.breadcrumb_detail {
+    font-size: 0.8rem;
+}
+
+.breadcrumb_detail a{
+    font-size: 0.8rem;
+}
